@@ -1,1 +1,1 @@
-# prakharscode.github.io-personalwebsite
+# personal-website
